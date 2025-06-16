@@ -2,19 +2,12 @@
 
 ---
 
-### 🧠 About Me
-
-- 🧼 Passionate about clean code, scalable systems, and smart architecture
-- 🔨 Building backends, dashboards, and games — mostly for fun and freedom
-- 🧪 I like experimenting with tools that feel sharp and purposeful
-
----
 
 ### 💻 Tech Stack
 
 #### 🗣️ Languages
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
