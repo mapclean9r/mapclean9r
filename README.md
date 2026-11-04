@@ -43,7 +43,6 @@ Jeg liker å løse tekniske utfordringer gjennom programmering og utvikle prakti
 - noSQL
 - Relasjonsdatabaser
 - Databasemodellering
-- Databasehåndtering
 
 ### Andre fagområder
 
