@@ -1,15 +1,58 @@
-<h1 align="center"><code>mapclean9r</code></h1>
+# mapclean9r
 
+### Programvareutvikling
 
-🧰 Languages & Tools
-<p align="left"> <!-- Languages & Frameworks --> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" style="margin-right: 15px;" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" style="margin-right: 15px;" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40" alt="Kotlin" style="margin-right: 15px;" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" style="margin-right: 15px;" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" alt="Spring Boot" style="margin-right: 15px;" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" height="40" alt=".NET" style="margin-right: 15px;" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" style="margin-right: 15px;" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40" alt="Vue" style="margin-right: 15px;" />
-  <img src="https://img.icons8.com/ios-filled/50/000000/database.png" width="40" height="40" alt="SQL" style="margin-right: 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" style="margin-right: 15px;" /> </p>
+Jeg har en bachelorgrad i informatikk og stor interesse for frontend og backend utvikling, moderne webapplikasjoner og programvareutvikling.
+
+Jeg liker å løse tekniske utfordringer gjennom programmering og utvikle praktiske, brukervennlige og vedlikeholdbare programvareløsninger. Jeg er spesielt interessert i utvikling av webapplikasjoner, REST API-er, databaser og integrering av kunstig intelligens (AI).
+
+---
+
+## Teknisk kompetanse
+
+### Programmeringsspråk
+
+- JavaScript
+- TypeScript
+- Java
+- Kotlin
+- C#
+- SQL
+
+### Frontend-utvikling
+
+- React
+- JavaScript
+- TypeScript
+- HTML
+- CSS
+- Responsivt webdesign
+- Komponentbasert utvikling
+
+### Backend-utvikling
+
+- C# / .NET
+- Java
+- Kotlin
+- REST API-utvikling
+- Backend-utvikling
+- API-integrasjoner
+
+### Databaser
+
+- SQL
+- noSQL
+- Relasjonsdatabaser
+- Databasemodellering
+- Databasehåndtering
+
+### Andre fagområder
+
+- Utvikling med Kunstig intelligens (AI)
+- AI-integrasjon i programvare
+- Programvareutvikling
+- Problemløsning
+- Applikasjonsutvikling
+- Programvarearkitektur
+
+---
