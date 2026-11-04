@@ -2,7 +2,7 @@
 
 ### Programvareutvikling
 
-Jeg har en bachelorgrad i informatikk og stor interesse for både frontend og backend utvikling.
+Jeg har en bachelorgrad i informatikk med stor interesse for både frontend og backend utvikling.
 
 Jeg liker å løse tekniske utfordringer gjennom programmering og utvikle praktiske, brukervennlige og vedlikeholdbare programvareløsninger. Jeg er spesielt interessert i utvikling av webapplikasjoner, REST API-er, databaser og integrering av kunstig intelligens (AI).
 
