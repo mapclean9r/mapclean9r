@@ -35,7 +35,6 @@ Jeg liker å løse tekniske utfordringer gjennom programmering og utvikle prakti
 - Java
 - Kotlin
 - REST API-utvikling
-- Backend-utvikling
 - API-integrasjoner
 
 ### Databaser
