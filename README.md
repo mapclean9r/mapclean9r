@@ -18,6 +18,7 @@ Jeg liker å løse tekniske utfordringer gjennom programmering og utvikle prakti
 - Kotlin
 - C#
 - SQL
+- Python
 
 ### Frontend-utvikling
 
